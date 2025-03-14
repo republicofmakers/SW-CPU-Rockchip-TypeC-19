@@ -1,0 +1,1 @@
+# SW-CPU-Rockchip-TypeC-19
